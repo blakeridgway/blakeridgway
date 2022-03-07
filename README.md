@@ -7,8 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=blakeridgway&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Blake Ridgway" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Vertex Solutions**
-- :seedling: &nbsp;I’m currently learning **Python**
+- :office: &nbsp;I'm currently working for **Prime Trust**
+- :seedling: &nbsp;I’m currently learning **Ruby**...again :D
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more on **[Twitter]**
 
