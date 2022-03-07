@@ -27,11 +27,11 @@
       </a>
       <br>Google Cloud
     </td>
-    <td align="center" width="96"> 
-      <a href="#blakeridgway-tech" >
-        <img src="https://realtoughcandy.com/wp-content/uploads/2020/11/golang-gopher.png" width="48" height="48" alt="GoLang" />
+    <td align="center" width="96">
+      <a href="#blakeridgway-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="Amazon Web Services" />
       </a>
-      <br>GoLang
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#blakeridgway-tech" >
@@ -44,6 +44,18 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#blakeridgway-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/128px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby" />
+      </a>
+      <br>Ruby
+    </td>
+    <td align="center" width="96"> 
+      <a href="#blakeridgway-tech" >
+        <img src="https://realtoughcandy.com/wp-content/uploads/2020/11/golang-gopher.png" width="48" height="48" alt="GoLang" />
+      </a>
+      <br>GoLang
     </td>
     <td align="center" width="96">
       <a href="#blakeridgway-tech">
