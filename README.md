@@ -1,6 +1,6 @@
 
 <h1 align="left" id="blakeridgway-title">:wave: Hello there! I'm Blake Ridgway</h1>
-<h3 align="left">I am a Computer Science student </h3>
+<h3 align="left">I am a Computer Science student, and a Platform Engineer in Fintech. </h3>
 
 
 <a href="#blakeridgway-title">
