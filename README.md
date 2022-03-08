@@ -4,15 +4,8 @@
 
 
 <a href="#blakeridgway-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=blakeridgway&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Blake Ridgway" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blakeridgway&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Blake Ridgway" align="center" />
 </a>
-
-- :office: &nbsp;I'm currently working for **Prime Trust**
-- :seedling: &nbsp;I’m currently learning **Ruby**...again :D
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more on **[Twitter]**
-
-<br>
 
 <h2 align="left" id="blakeridgway-tech">Favorite Tech</h2>
 
