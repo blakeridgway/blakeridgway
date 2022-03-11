@@ -1,4 +1,6 @@
-<h1 align="left" id="blakeridgway-title">Konichiwa :wave: I'm Blake Ridgway</h1>
+<h1 align="left" id="blakeridgway-title">Konichiwa :wave: </br>
+I'm Blake Ridgway</h1>
+</br>
 I'm a Computer Science student and a Platform Engineer in the Fintech world. I specialize in utlizing APIs and 3rd party intergrations to make the Fintech industry a better environment for everyone.  
 
 ### - Learning:
