@@ -1,68 +1,40 @@
-<h1 align="left" id="blakeridgway-title">Konichiwa :wave: </br>
-I'm Blake Ridgway</h1>
-</br>
-I'm a Computer Science student and a Platform Engineer in the Fintech world. I specialize in utlizing APIs and 3rd party intergrations to make the Fintech industry a better environment for everyone.  
+# Blake Ridgway :wave:
 
-### - Learning:
-- Deeper knowledge in APIs
-- Blockchain
-- Building scalable architecture 
+**`Digital Craftsman (Developer/Open Source Advocate/Tinkerer)`**
 
-### - Hobbies
-- Road Cycling
-- Role Playing Games
-- Open Source Software
+I'm a Computer Science student and a Platform Engineer in the Fintech world. I
+specialize in utilizing APIs and 3rd party integrations to make the Fintech
+industry a better environment for everyone. When I am not doing that I am able
+to be found tinkering with Open Source Technology or Road Biking around
+somewhere in Oklahoma.
 
-### - Communication
-- :bird: &nbsp;Let's talk more on **[Twitter]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+   <p align="left">
+      <a href="https://github.com/BlakeRidgway?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/BlakeRidgway?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-</br>
-<h2 align="left" id="blakeridgway-tech">Favorite Tech</h2>
+---
 
-> Tools, languages, and other things that I like to work with.
+### 🧰 Languages and Tools
 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>
+<br />
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#blakeridgway-tech">
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>Google Cloud
-    </td>
-    <td align="center" width="96">
-      <a href="#blakeridgway-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="Amazon Web Services" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#blakeridgway-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#blakeridgway-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#blakeridgway-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/128px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby" />
-      </a>
-      <br>Ruby
-    </td>
-    <td align="center" width="96">
-      <a href="#blakeridgway-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-  </tr>
-</table>
+#
 
-[linkedin]: https://www.linkedin.com/in/blakeridgway "LinkedIn"
-[twitter]: https://twitter.com/BlakeRidgway_ "Twitter"
+### 📊 Stats
+
+![Blakes's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+#
+
+[website]: https://blakeridgway.dev
