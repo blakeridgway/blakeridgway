@@ -2,11 +2,9 @@
 
 **`Digital Craftsman (Developer/Open Source Advocate/Tinkerer)`**
 
-I'm a Computer Science student and a Platform Engineer in the Fintech world. I
-specialize in utilizing APIs and 3rd party integrations to make the Fintech
-industry a better environment for everyone. When I am not doing that I am able
-to be found tinkering with Open Source Technology or Road Biking around
-somewhere in Oklahoma.
+I'm a Platform Engineer in the Fintech world. I specialize in utilizing APIs and 3rd party integrations 
+to make the Fintech industry a better environment for everyone. When I am not doing that I am able
+to be found tinkering with Open Source Technology or Road Biking around somewhere in Oklahoma.
 
    <p align="left">
          <img alt="state" src="https://custom-icon-badges.demolab.com/badge/Oklahoma-USA-purple?style=for-the-badge&logo=location&logoColor=white"/></a>
