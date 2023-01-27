@@ -32,11 +32,6 @@ to be found tinkering with Open Source Technology or Road Biking around somewher
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <br />
 
-#
-
-### Stats
-
-![Blakes's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakeridgway&show_icons=true&theme=nord)
 
 #
 
