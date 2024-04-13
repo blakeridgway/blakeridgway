@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*F9DxsEfRmgZLnPpKWJJlSA.png">
-</div>
-
 <h3 align="center">
   <p> Greetings, I'm Blake Ridgway
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
