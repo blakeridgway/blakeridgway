@@ -3,23 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
 </h3>
 <div align="center">
-  <b>Systems Administrator | Security Researcher | Linux & Open Source Hierophant</b>  
+  <b>Systems Administrator | Network Engineer | DevOps Engineer | Linux & Open Source Hierophant</b>  
 </div>
 
 </br>
 
+Experienced Systems Administrator proficient in Linux, AWS, Azure, and server automation, with specialized knowledge in Cisco, Fortigate, and Netgate network solutions. Demonstrated success in enhancing infrastructure efficiency and security. Committed to driving innovation and achieving peak performance in company infrastructure.
 
-In the Agribusiness realm, I'm not just another Systems Administrator—I'm the one who's all about fine-tuning operations and making things run smoothly with IT solutions. My heart beats for Linux, and my belief in open source principles guides every move I make.
+I am dedicated to driving innovation and ensuring peak performance within company infrastructure, distinguishing myself not just as an IT professional but as a specialist adept at fine-tuning operations and implementing state-of-the-art IT solutions.
 
-But there's more to me than just work. Outside of the office, you'll often find me on two wheels, cycling through the countryside or tackling challenging trails. Cycling isn't just a hobby for me—it's my sanctuary, offering balance and clarity that directly contribute to my professional effectiveness.
+Outside of work, my passion for cycling provides both solace and inspiration. Whether navigating countryside paths or tackling challenging trails, cycling is integral to maintaining my equilibrium and enhancing my professional acumen.
 
-In fact, it was during one of those rides that the idea for my passion project struck: creating an open-source cycling training site that's like a blend of TrainingPeaks, Intervals.icu, and a dash of TrainerRoad magic. It's my way of merging my love for technology with my passion for cycling, offering riders a comprehensive tool to take their riding to the next level.
+During one of these rides, I conceived a pioneering open-source platform for cycling training. This project integrates the best features of TrainingPeaks, Intervals.icu, and TrainerRoad, merging my technological expertise with my enthusiasm for cycling. It aims to equip riders with a comprehensive toolkit to elevate their performance and achieve their goals.
 
-And as if that weren't enough, I'm also on a journey of my own—earning my Bachelor's Degree in Cybersecurity from Southern New Hampshire University. It's not just about advancing my career; it's about embracing a field I'm passionate about and continuously expanding my horizons.
-
-Between optimizing operations, coding up cycling solutions, hitting the books for my degree, and pedaling through the great outdoors, you could say I've got a lot on my plate. But hey, that's just how I roll, both personally and professionally.
-
-    
 ---
 
 <h3 align="left">
