@@ -8,6 +8,8 @@
 
 </br>
 
+<h3>I have moved over to <a href="https://gitlab.com/blakeridgway">GitLab</a> for all primary work.</h3>
+
 Experienced Systems Administrator proficient in Linux, AWS, Azure, and server automation, with specialized knowledge in Cisco, Fortigate, and Netgate network solutions. Demonstrated success in enhancing infrastructure efficiency and security. Committed to driving innovation and achieving peak performance in company infrastructure.
 
 I am dedicated to driving innovation and ensuring peak performance within company infrastructure, distinguishing myself not just as an IT professional but as a specialist adept at fine-tuning operations and implementing state-of-the-art IT solutions.
