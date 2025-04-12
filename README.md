@@ -17,7 +17,9 @@ My core competencies include:
 *   **Security Focus:** A commitment to integrating security best practices into every stage of the software development lifecycle.
 
 Beyond my professional endeavors, I'm an avid cyclist and open-source enthusiast. I'm currently developing a platform to help cyclists train smarter, combining data-driven insights with a strong emphasis on data privacy and security.
+
 <br>
+
 ---
 
 <h3 align="left">
