@@ -1,31 +1,17 @@
 <!-- Professional Profile Section -->
 <div style="padding: 40px; background: #f4f6f8;">
   <div align="center">
-    <h3>Greetings, I'm Cipher 
+    <h3>Greetings, I'm Blake 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h3>
-    <b>Systems Administrator | Aspiring Network Engineer | Cloud & Cybersecurity Enthusiast</b>
+    <b>Site Reliability Engineer | Network Engineer | Linux & Open Source Advocate </b>
   </div>
   <br>
   <p style="max-width: 900px; margin: auto; font-size: 1.05em; line-height: 1.6; text-align: center;">
-    As a Systems Administrator, my focus has been on ensuring the stability, integrity, and performance of critical IT infrastructure. 
-    Through hands-on experience managing Linux, AWS, and Azure environments, I've learned that 
-    <strong>modern networks must be designed with both scalability and security in mind</strong>.
-    <br><br>
-    This realization has inspired my journey into <strong>Network Engineering</strong> with a focus on <strong>Cloud Computing and Cybersecurity</strong>. 
-    My goal is to leverage my background in systems management, automation, and networking to design, optimize, and secure enterprise and cloud-based networks.
-  </p>
-</div>
-
-<!-- Learning Journey -->
-<div style="padding: 40px; background: white;">
-  <h2 style="text-align: center; color: #2c3e50;">🚀 My Network Engineering Learning Journey</h2>
-  <p style="max-width: 900px; margin: auto; text-align: center; font-size: 1.05em;">
-    I am actively developing my skills in enterprise networking, cloud infrastructure, and network security. 
-    My learning path includes mastering routing and switching, cloud networking (AWS & Azure), and implementing robust security measures to protect hybrid environments.
-    <br><br>
-    ➡️ I am documenting my entire learning process, including all notes, labs, and projects, in my 
-    <a href="https://gitlab.com/ciphervance/infrajournal" target="_blank">Network Engineering & Security Learning Repository</a>.
+    I’m a Site Reliability Engineer with a strong foundation in cloud networking, automation, and security across hybrid and multi-cloud environments (Azure, AWS). 
+    I build resilient, observable platforms using Infrastructure-as-Code and policy-as-code—from network design to CI/CD—so teams can ship faster with confidence, stay compliant, and operate reliably at scale.  
+    I’m passionate about solving complex reliability and networking problems, making ambiguous systems measurable and understandable, and turning those insights into action. I enjoy mentoring teams on secure network design, automation best practices, and observability—creating a culture of continuous improvement.  
+    I’m continuing my B.S. in Cloud and Network Engineering at Western Governors University and hold certifications including CompTIA Network+, FCF, and FCA Cybersecurity. I’m especially interested in roles that bridge Site Reliability and Network Engineering—where I can design secure, high‑performance networks, automate cloud infrastructure, and build monitoring that prevents incidents before they happen.
   </p>
 </div>
 
