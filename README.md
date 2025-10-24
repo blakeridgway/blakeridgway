@@ -4,7 +4,7 @@
     <h3>Greetings, I'm Blake
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h3>
-    <b>SRE/CloudOps Engineer | Network Engineer | Go Developer</b>
+    <b>SRE/CloudOps Engineer | Network Engineer | Aspiring Rust Developer</b>
   </div>
   <br>
   <p style="max-width: 900px; margin: auto; font-size: 1.05em; line-height: 1.6; text-align: center;">
@@ -36,7 +36,6 @@
         <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>OS & Cloud</strong></td>
         <td style="text-align: left; border: none; padding-bottom: 15px;">
           <img alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          <img alt="Fedora" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" />
           <img alt="Debian" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
           <img alt="AWS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           <img alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -63,7 +62,7 @@
       <tr style="border: none;">
         <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>Languages & Frameworks</strong></td>
         <td style="text-align: left; border: none;">
-          <img alt="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+          <img alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
           <img alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
           <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
