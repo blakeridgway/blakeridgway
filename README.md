@@ -10,7 +10,7 @@
   <p style="max-width: 900px; margin: auto; font-size: 1.05em; line-height: 1.6; text-align: center;">
     I’m a Site Reliability and CloudOps Engineer with a strong foundation in cloud networking, automation, and security. In my full-time role, I'm passionate about <strong>building the future of healthcare by designing and developing highly scalable and resilient infrastructure.</strong>
     <br><br>
-    I build observable platforms using Infrastructure-as-Code and am currently expanding my toolkit by <strong>leveraging GoLang to create performant, concurrent systems</strong> that allow teams to ship faster with confidence. I’m especially interested in roles that bridge Site Reliability and Network Engineering—where I can design secure, high‑performance networks, automate cloud infrastructure, and build monitoring that prevents incidents before they happen.
+    I build observable platforms using Infrastructure-as-Code and am currently expanding my toolkit by <strong>leveraging Rust to create performant, concurrent systems</strong> that allow teams to ship faster with confidence. I’m especially interested in roles that bridge Site Reliability and Network Engineering—where I can design secure, high‑performance networks, automate cloud infrastructure, and build monitoring that prevents incidents before they happen.
   </p>
 </div>
 
@@ -22,7 +22,7 @@
     <li><strong>Network Engineering:</strong> Routing, switching, VLANs, VPNs, and network troubleshooting.</li>
     <li><strong>Cloud Networking:</strong> AWS VPCs, Azure VNets, hybrid cloud connectivity, and load balancing.</li>
     <li><strong>Network Security:</strong> Firewalls, IDS/IPS, Zero Trust, and secure network design.</li>
-    <li><strong>Automation & Scripting:</strong> <strong>GoLang,</strong> Bash, PowerShell, and Python for infrastructure and system automation.</li>
+    <li><strong>Automation & Scripting:</strong> <strong>Rust,</strong> Bash, PowerShell, and Python for infrastructure and system automation.</li>
 </ul>
 
 ---
