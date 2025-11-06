@@ -4,13 +4,13 @@
     <h3>Greetings, I'm Blake
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h3>
-    <b>SRE/CloudOps Engineer | Network Engineer | Aspiring Rust Developer</b>
+    <b>SRE/CloudOps Engineer | Network Engineer | Go Developer</b>
   </div>
   <br>
   <p style="max-width: 900px; margin: auto; font-size: 1.05em; line-height: 1.6; text-align: center;">
     I’m a Site Reliability and CloudOps Engineer with a strong foundation in cloud networking, automation, and security. In my full-time role, I'm passionate about <strong>building the future of healthcare by designing and developing highly scalable and resilient infrastructure.</strong>
     <br><br>
-    I build observable platforms using Infrastructure-as-Code and am currently expanding my toolkit by <strong>leveraging Rust to create performant, concurrent systems</strong> that allow teams to ship faster with confidence. I’m especially interested in roles that bridge Site Reliability and Network Engineering—where I can design secure, high‑performance networks, automate cloud infrastructure, and build monitoring that prevents incidents before they happen.
+    I build observable platforms using Infrastructure-as-Code and am currently expanding my toolkit by <strong>leveraging Go to create performant, concurrent systems</strong> that allow teams to ship faster with confidence. I’m especially interested in roles that bridge Site Reliability and Network Engineering—where I can design secure, high‑performance networks, automate cloud infrastructure, and build monitoring that prevents incidents before they happen.
   </p>
 </div>
 
@@ -22,7 +22,7 @@
     <li><strong>Network Engineering:</strong> Routing, switching, VLANs, VPNs, and network troubleshooting.</li>
     <li><strong>Cloud Networking:</strong> AWS VPCs, Azure VNets, hybrid cloud connectivity, and load balancing.</li>
     <li><strong>Network Security:</strong> Firewalls, IDS/IPS, Zero Trust, and secure network design.</li>
-    <li><strong>Automation & Scripting:</strong> <strong>Rust,</strong> Bash, PowerShell, and Python for infrastructure and system automation.</li>
+    <li><strong>Automation & Scripting:</strong> Go, Bash, PowerShell, and Python for infrastructure and system automation.</li>
 </ul>
 
 ---
@@ -62,7 +62,7 @@
       <tr style="border: none;">
         <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>Languages & Frameworks</strong></td>
         <td style="text-align: left; border: none;">
-          <img alt="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+          <img alt="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
           <img alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
           <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
