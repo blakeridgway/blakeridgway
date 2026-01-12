@@ -1,73 +1,86 @@
 <!-- Professional Profile Section -->
-<div style="padding: 40px; background: #f4f6f8;">
-  <div align="center">
-    <h3>Greetings, I'm Blake
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    </h3>
-    <b>SRE/CloudOps Engineer | Network Engineer | Go Developer</b>
-  </div>
-  <br>
-  <p style="max-width: 900px; margin: auto; font-size: 1.05em; line-height: 1.6; text-align: center;">
-    I’m a Site Reliability and CloudOps Engineer with a strong foundation in cloud networking, automation, and security. In my full-time role, I'm passionate about <strong>building the future of healthcare by designing and developing highly scalable and resilient infrastructure.</strong>
-    <br><br>
-    I build observable platforms using Infrastructure-as-Code and am currently expanding my toolkit by <strong>leveraging Go to create performant, concurrent systems</strong> that allow teams to ship faster with confidence. I’m especially interested in roles that bridge Site Reliability and Network Engineering—where I can design secure, high‑performance networks, automate cloud infrastructure, and build monitoring that prevents incidents before they happen.
-  </p>
+<div align="center">
+  <h3>Hi, I'm Blake
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+  <b>Cloud Engineer | SRE & DevOps</b>
 </div>
+
+<br>
+
+<p align="center" style="max-width: 700px;">
+  I'm a Cloud Engineer focused on Site Reliability and DevOps in the healthcare industry. I design and build highly scalable, resilient infrastructure that powers modern healthcare systems.
+  <br><br>
+  Day-to-day, I work with .NET, JavaScript, and TypeScript to deliver reliable platforms. Outside of work, I build with <strong>Go</strong>—creating tools that prioritize performance, privacy, and user empowerment.
+</p>
 
 ---
 
-<!-- Core Competencies -->
-<ul style="max-width: 900px; margin: auto; font-size: 1.05em; line-height: 1.8;">
-    <li><strong>Systems Administration:</strong> Deploying, managing, and troubleshooting Linux and Windows server environments.</li>
-    <li><strong>Network Engineering:</strong> Routing, switching, VLANs, VPNs, and network troubleshooting.</li>
-    <li><strong>Cloud Networking:</strong> AWS VPCs, Azure VNets, hybrid cloud connectivity, and load balancing.</li>
-    <li><strong>Network Security:</strong> Firewalls, IDS/IPS, Zero Trust, and secure network design.</li>
-    <li><strong>Automation & Scripting:</strong> Go, Bash, PowerShell, and Python for infrastructure and system automation.</li>
-</ul>
+### 🚀 Current Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://rideaware.org">RideAware</a></h4>
+      <p>A comprehensive cycling training platform designed to help riders stay aware of their performance, progress, and goals. Build structured training plans, analyze ride data, and complete workouts indoors—all in one place.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://bytefort.org">ByteFort</a></h4>
+      <p>An educational platform focused on homelabbing, privacy protection, and data sovereignty. Practical guides, community support, and resources to help anyone build their own secure digital environment and take control of their personal data.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-<!-- Technologies & Tools -->
-<div style="padding: 40px; background: white; text-align: center;">
-  <h2 style="color: #2c3e50;">💻 Technologies & Tools</h2>
-  
-  <table align="left" style="width: 100%; max-width: 800px; margin: auto; border: none; border-collapse: collapse;">
-    <tbody>
-      <tr style="border: none;">
-        <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>OS & Cloud</strong></td>
-        <td style="text-align: left; border: none; padding-bottom: 15px;">
-          <img alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          <img alt="Debian" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
-          <img alt="AWS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-          <img alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>Networking & Security</strong></td>
-        <td style="text-align: left; border: none; padding-bottom: 15px;">
-          <img alt="Cisco" width="35px" src="https://www.svgrepo.com/show/448278/cisco.svg" />
-          <img alt="Fortigate" width="35px" src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" />
-          <img alt="pfSense" width="35px" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" />
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>DevOps & Automation</strong></td>
-        <td style="text-align: left; border: none; padding-bottom: 15px;">
-          <img alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-          <img alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-          <img alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-          <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-          <img alt="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="width: 200px; padding-right: 20px; text-align: right; vertical-align: top; border: none;"><strong>Languages & Frameworks</strong></td>
-        <td style="text-align: left; border: none;">
-          <img alt="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-          <img alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-          <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
+### 🛠 Core Competencies
+
+- **Site Reliability Engineering:** Building observable, resilient systems with proactive monitoring and incident prevention.
+- **Cloud Infrastructure:** AWS VPCs, Azure VNets, hybrid connectivity, load balancing, and Infrastructure-as-Code.
+- **DevOps & Automation:** CI/CD pipelines, containerization, orchestration, and scripting for infrastructure automation.
+- **Network Engineering:** Routing, switching, VLANs, VPNs, firewalls, and secure network design.
+
+---
+
+### 💻 Technologies & Tools
+
+<table>
+  <tr>
+    <td align="right" width="180"><strong>OS & Cloud</strong></td>
+    <td>
+      <img alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img alt="Debian" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
+      <img alt="AWS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      <img alt="Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Networking & Security</strong></td>
+    <td>
+      <img alt="Cisco" width="35px" src="https://www.svgrepo.com/show/448278/cisco.svg" />
+      <img alt="Fortigate" width="35px" src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" />
+      <img alt="pfSense" width="35px" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>DevOps & Automation</strong></td>
+    <td>
+      <img alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+      <img alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+      <img alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+      <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      <img alt="Bash" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Languages</strong></td>
+    <td>
+      <img alt="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+      <img alt=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+      <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+    </td>
+  </tr>
+</table>
