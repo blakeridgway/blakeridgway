@@ -85,7 +85,10 @@
     <td>
       <img alt="Prometheus" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
       <img alt="Grafana" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-      <code>Nagios</code> <code>Splunk</code> <code>Azure Monitor</code> <code>CloudWatch</code>
+      <img alt="Nagios" width="35px" src="https://www.nagios.com/wp-content/uploads/2025/08/NCircleLogo_150_CoreWhiteNBlueCircle.svg" />
+      <img alt="Splunk" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" /> 
+      <img alt="Azure Monitor" width="35px" src="https://azure.microsoft.com/svghandler/monitor/?width=600&amp;height=315" />
+      <img alt="CloudWatch" width="35px" src="https://codeopinion.com/wp-content/uploads/2019/08/aws-cloudwatch-logo-png-transparent.png" />
     </td>
   </tr>
 </table>
